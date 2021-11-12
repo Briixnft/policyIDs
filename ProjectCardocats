@@ -1,0 +1,25 @@
+[
+  {
+    "project": "Cardocat2",
+    "policies": [
+      "0a6af3fcac4fd45f0fc640a28999e89e444325ac493d25625a440976"
+    ]
+  },
+  {
+    "project": "Cardocat3",
+    "policies": [
+      "45655214098b1c48996b28edc1421dfa12a1b481c3c131671f9c2acf"
+    ]
+  },
+  {
+    "project": "CardocatCardocat4",
+    "policies": [
+      "a552e8bcf09cf483fd716ec4da12e67064f247b38b84779d766ba31c"
+    ]
+  },
+  {
+    "project": "Cardocat5",
+    "policies": [
+      "878138e3b03f84f3e9e14eeb5625ca42b8c3f347d5e488ae2306d9fc"
+    ]
+]
